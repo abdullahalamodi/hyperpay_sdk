@@ -4,373 +4,425 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/OPPApplePayPaymentParams.h</key>
+		<key>Headers/NSArray+OPPPaymentBrands.h</key>
 		<data>
-		gQMb57BhaHU6ec7LBWiLTJdlY7Q=
+		0exMqsJtvKKaOqgf6Rx38f0CVwc=
+		</data>
+		<key>Headers/NSArray+OPPPaymentTokens.h</key>
+		<data>
+		YvE+nObltuiA4hrMuB5vo/4TegM=
+		</data>
+		<key>Headers/NSString+Security.h</key>
+		<data>
+		zyZGy9dl8Rb95r3in/IiNE1Dbz8=
+		</data>
+		<key>Headers/OPPAFHTTPSessionManager.h</key>
+		<data>
+		vjCIKRD2kLgPH5bTHdt3Ts7YIG4=
+		</data>
+		<key>Headers/OPPAFNetworkReachabilityManager.h</key>
+		<data>
+		4qvK2Bmj5hC4QRqpcNmIiGWuSEY=
+		</data>
+		<key>Headers/OPPAFNetworking.h</key>
+		<data>
+		Uu+eXCCUbXCBkAMofTI63wLR1MY=
+		</data>
+		<key>Headers/OPPAFSecurityPolicy.h</key>
+		<data>
+		QBGsHfJpjKBOcbjjdgTjD5iypww=
+		</data>
+		<key>Headers/OPPAFURLRequestSerialization.h</key>
+		<data>
+		3+dnjjaamdt+QHpvKOxXa39vOSk=
+		</data>
+		<key>Headers/OPPAFURLResponseSerialization.h</key>
+		<data>
+		Yz2w9NhZsECE1sT2K1buZDDM19s=
+		</data>
+		<key>Headers/OPPAFURLSessionManager.h</key>
+		<data>
+		AAogNQpgDbjXRKlfh+fjtyQQ3L4=
+		</data>
+		<key>Headers/OPPAffirmProcessor.h</key>
+		<data>
+		uCHGvGueY8F9XQOvEFjWoAf+85U=
+		</data>
+		<key>Headers/OPPAfterpayConfig.h</key>
+		<data>
+		ZY6CTMZz+V0gY1kwvTeIYZwDebM=
+		</data>
+		<key>Headers/OPPAfterpayUtil.h</key>
+		<data>
+		5TKHLBZnJAETx2GUt6hOJZFlEhg=
 		</data>
 		<key>Headers/OPPApplePayRequestStatus.h</key>
 		<data>
-		xN1d1qUK3/faF6xZpO9wLQyMkuw=
+		zipSKRbsZRWWWJybQR3NUfmLpLE=
 		</data>
 		<key>Headers/OPPBankAccount.h</key>
 		<data>
-		cNhMrntYIXUSp22LxrTGSU9r6yw=
+		hT4uTIQ4x9whJ+Heiry4SoCgpuM=
 		</data>
-		<key>Headers/OPPBankAccountPaymentParams.h</key>
+		<key>Headers/OPPBillingAddress+Validation.h</key>
 		<data>
-		4ncOIyWjIJrK+YLeUtrexIoeD9A=
-		</data>
-		<key>Headers/OPPBaseCardPaymentParams.h</key>
-		<data>
-		HYaOUaq5uqP1bNSJGTXJ8Z6XoBE=
+		pwz7PpKxz6EmOHVeJ8cQiQXA7m0=
 		</data>
 		<key>Headers/OPPBillingAddress.h</key>
 		<data>
-		z29mpEO/9GPgdBIvy+X77P9Ycus=
+		nA2HQT8VZ+8x1YIfiKdYtO3SuNw=
 		</data>
 		<key>Headers/OPPBillingAddressBuilder.h</key>
 		<data>
-		D8eg2DXFM2f5i7PxOqMWfPB/Bfg=
+		igV8T6VQZFngmX7oVMKvXi4lDT0=
 		</data>
-		<key>Headers/OPPBinInfo.h</key>
+		<key>Headers/OPPBrandConfig.h</key>
 		<data>
-		vnw0LlTaLVq9lMPMVjINxGdC+pI=
+		o9dylBVpLvFPOsgvX2GhmW7k6Yg=
 		</data>
-		<key>Headers/OPPCard.h</key>
+		<key>Headers/OPPCardDetailsComponent.h</key>
 		<data>
-		hL/aA/6Ah9da7QBpeJSerWIRjNE=
+		KWbstzXj7dtzMyQdv7HqqIV1g9A=
 		</data>
-		<key>Headers/OPPCardPaymentParams.h</key>
+		<key>Headers/OPPCardDetailsProtocol.h</key>
 		<data>
-		zHFEQjfzkhLWvZ819Ga6oebD6OU=
+		E2wNjAIwKdRiM47itjk1mc17BY0=
+		</data>
+		<key>Headers/OPPCashAppPayProcessor.h</key>
+		<data>
+		VyfWP8A4OMmYJAG98YfDJQ35qHQ=
 		</data>
 		<key>Headers/OPPCheckoutInfo.h</key>
 		<data>
-		HLc380wtrNL89Yn4ZNDdGX8alkg=
+		6TihzyZYc4kIHfcLRIDN0j4sfDs=
+		</data>
+		<key>Headers/OPPCheckoutProvider+Server.h</key>
+		<data>
+		tQQFhs2wJsglxlaiNhvqU/U/Hh4=
 		</data>
 		<key>Headers/OPPCheckoutProvider.h</key>
 		<data>
-		FRo8gi9VjkfIw3UZVbMQ8lQoVNw=
+		/BMdZlYOIIWdZbPv/2NIyHvhw5w=
 		</data>
 		<key>Headers/OPPCheckoutSettings.h</key>
 		<data>
-		61as65I0F22pDIYWaeanbRQ3a84=
+		iR9e73sHiSL/NzYpo8JYmikYPFc=
 		</data>
-		<key>Headers/OPPCheckoutTheme.h</key>
+		<key>Headers/OPPConcreteCheckoutProvider.h</key>
 		<data>
-		ps+PoTB+BXqb74i2apBreGVV+/4=
+		4AVx+AouGpabTcpiz22zcegqT9s=
 		</data>
-		<key>Headers/OPPChinaUnionPayPaymentParams.h</key>
+		<key>Headers/OPPErrors+Private.h</key>
 		<data>
-		9xtC87AaQnhLD9O7b8z/ZvDBRzM=
+		iArwW1XdFnda7ZvHHStUVMa4JIo=
 		</data>
 		<key>Headers/OPPErrors.h</key>
 		<data>
-		nb30V6p/Ymgsjhd0Ftj0u+LIQOI=
+		PMWxsG0f0RWrlcM7FB5D2tAtH1E=
 		</data>
-		<key>Headers/OPPIkanoOiPaymentParams.h</key>
+		<key>Headers/OPPFraudForceUtil.h</key>
 		<data>
-		N8QJ+CB40x6e0F4Zuaw47IJBK3Q=
+		sl+V4njvQ6xU2XtdRWdjdEBvpVo=
 		</data>
-		<key>Headers/OPPIkanoPrivateLabelVAPaymentParams.h</key>
+		<key>Headers/OPPKlarnaPaymentViewWrapper.h</key>
 		<data>
-		xzSl/6YScpLsgfPUb2rkduwoNyo=
+		uVzu5j1rgN2oDbKa3Fl3ETrAq+I=
 		</data>
-		<key>Headers/OPPInicisPaymentParams.h</key>
+		<key>Headers/OPPPaymentBrand.h</key>
 		<data>
-		ncYE2ql6KFc1PBkuq6PQNHk9qaQ=
-		</data>
-		<key>Headers/OPPKlarnaInlinePaymentParams.h</key>
-		<data>
-		7FkMkmre/GKfRTTnlz7lWJduV0Q=
-		</data>
-		<key>Headers/OPPMBWayPaymentParams.h</key>
-		<data>
-		F0CcAHkk/iDAUKYQ1/AwInn5xOQ=
+		iWlDRzuNPrR8R1+ry5w6KC8OlDE=
 		</data>
 		<key>Headers/OPPPaymentBrandsConfig.h</key>
 		<data>
-		9U1Inzl8tP3Jo47jomQw1A+dZm4=
+		oC1gdE0mE4xRgf+xDVVW2F5J+co=
 		</data>
 		<key>Headers/OPPPaymentButton.h</key>
 		<data>
-		onH9jWqykZEfYiK0V7DbmEmaGpk=
+		+EIvc+BUHTIsIDjOSMFLY9LdgdM=
+		</data>
+		<key>Headers/OPPPaymentParams+Brand.h</key>
+		<data>
+		myJewbA5uXBYha8xdW94f6oiAgc=
 		</data>
 		<key>Headers/OPPPaymentParams.h</key>
 		<data>
-		5JqTtsgcd5TzNlHukY0s1FSG3jY=
+		2PJPL/16M4xxuR/KJh+Tqx7Adwk=
 		</data>
 		<key>Headers/OPPPaymentProvider.h</key>
 		<data>
-		aehuuCljfK6DE9SGfe7POmR7H0k=
+		WcDsbGkgJrJj+SuxHru/FvaPtuI=
 		</data>
-		<key>Headers/OPPRatePayPaymentParams.h</key>
+		<key>Headers/OPPPaymentSelectionComponent.h</key>
 		<data>
-		fMH5FiRNAMJibevcMDN7G2zDXuM=
+		CDTfBvX754CX3t3wcbwOPK8Mlm0=
 		</data>
-		<key>Headers/OPPSTCPayPaymentParams.h</key>
+		<key>Headers/OPPPaymentSelectionProtocol.h</key>
 		<data>
-		XAcuZmzOLLGDDFgSgp83peBQZ88=
+		yJRfhG8remKURajKL+qRo2GBfQY=
 		</data>
 		<key>Headers/OPPSecurityPolicy.h</key>
 		<data>
-		ksCbyErP2mhJEYz/lmLMlcmiIcw=
+		THxYGl7yvmAabhcc3OExlSz1A4g=
+		</data>
+		<key>Headers/OPPTheme.h</key>
+		<data>
+		M2+G7qjEJb4SmvhCA31fJC8SKMM=
 		</data>
 		<key>Headers/OPPThreeDS2Info.h</key>
 		<data>
-		EisewpvGV+UlXTFnPpH39jqz8XM=
+		p2h+9x7I2CwpPmUUFR1Hv56rXbE=
 		</data>
 		<key>Headers/OPPThreeDSChallengeUiType.h</key>
 		<data>
-		35EsJGLuchRgyB5us1AEhqSqM7Q=
+		7gS7udpaCbDQtT6aJ6rk7cjfgvM=
 		</data>
 		<key>Headers/OPPToken.h</key>
 		<data>
-		6cD1e5F0Dllz+CcasosmOfw7mNg=
-		</data>
-		<key>Headers/OPPTokenPaymentParams.h</key>
-		<data>
-		NcTpUNrO3v+KTJH0AHd5bpWyDAc=
+		WNZII9R8EnpW+IWGGP7AXyn3Xl4=
 		</data>
 		<key>Headers/OPPTransaction.h</key>
 		<data>
-		U8SerfuGv+/1tJauplKhVSESw1Y=
+		5gK2wDnwaLsO/lGxvQjKWNtpywg=
+		</data>
+		<key>Headers/OPPViewController.h</key>
+		<data>
+		g76C2jYlDPOpPCHnLbIUA1SXU9s=
 		</data>
 		<key>Headers/OPPVirtualAccount.h</key>
 		<data>
-		lJ7dIOqideje7rSK1MSwf333Osg=
+		D+rE6MFeWr2oZN9hmrb/ZswZ5rI=
 		</data>
 		<key>Headers/OPPWAMobile-Swift.h</key>
 		<data>
-		LzuRNNxeHdJFsOcWV4hH20bfyis=
+		9mbpK2c9KTFK3TO/9S/kazl8bQw=
 		</data>
 		<key>Headers/OPPWAMobile.h</key>
 		<data>
-		bf+9bGLHYRKD0DDlaUD4STAaIG8=
+		MXMee6tMyg8qjT81Ss+odKgpFsY=
 		</data>
-		<key>Headers/OPPYooKassaInfo.h</key>
+		<key>Headers/OPPWpwlOptions.h</key>
 		<data>
-		dv6w4eGeK+cFY0V3Ni6qpbVI7u4=
+		+ByziZNa2P3Yg4jlwNANESk1Pss=
 		</data>
 		<key>Headers/OPPYooKassaPaymentParams.h</key>
 		<data>
-		zAPq8GEy/w1vEI65KsPNR7rMe4w=
+		U0OLe8sdAf13hrueo+JlvIYQrJo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZjEo8MXRCRikK8UPLfGEUe7vUYk=
+		ZPyXsNIERIvxvbcx5mIB8B9GZxU=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		4KcSRxUfEFAyZIPoNrcDcEJCO3Q=
+		JmPmaec1349WjpSP+6I0J1P+G1U=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		MGiCJuUlKtsTRVahh3W1QqMiJgI=
+		nejqU64VtKACzsFAIZTjqIlmiFU=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6UngghBY89oRpLcIuQngs4wD6y4=
+		XilTgeNsXtwmqhPrkuuFSNHKqd0=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		94b4VW+cLH55iEV9f9n/gqZKSKc=
+		8uqDFjvQ/gyzxbpvUe8NWEr3fP4=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2qRDzmQxRWFf39Rgbl0edQblcSY=
+		lJVaKe/Piqt9alpoNwr7omlTBKU=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		94b4VW+cLH55iEV9f9n/gqZKSKc=
+		8uqDFjvQ/gyzxbpvUe8NWEr3fP4=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		12C97w9IZsEbOUMbC2O2cJ7T4WA=
+		k203+pwEtVoJEHzRHgTbzBbK8+Q=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6UngghBY89oRpLcIuQngs4wD6y4=
+		XilTgeNsXtwmqhPrkuuFSNHKqd0=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WjCbuEB75x5Enz9ofWtMLEHrP/0=
+		/5q/PCJKI1Hmgs/9rGcAhlnJGtU=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		aTTL7aAk1BcfIt/BUoiA820vAyw=
+		SSGPxQs7np/qHBrTXHWVccs8XzM=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WjCbuEB75x5Enz9ofWtMLEHrP/0=
+		/5q/PCJKI1Hmgs/9rGcAhlnJGtU=
 		</data>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VK99N92su8KqgToCL0VREaEcddM=
+		FhyITZDv0kGUg3SVCZYQj/R9Aj4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jcqI3k6Lge3Hk4IBWWXJtqj1i14=
+		IcT0i+JRiVR29fMRk0hb/UqCFMk=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/Info.plist</key>
 		<data>
-		+xv9sJBig0dTuZGcoTkx5TK+Gwo=
+		rlkjSbyuHgQu1+BMgSXz+5UpEGs=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/Klarna.json</key>
 		<data>
 		QHgf9V2VoXXjfBhBNnDaSJnIdDQ=
 		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorCell.nib</key>
-		<data>
-		xF5JsJVhZCsxoT9DOTEcbE1j39I=
-		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorView.nib</key>
 		<data>
-		S3WI5+/DHvhU1lfh9lspfgB9ay4=
+		MADQFPIpzNfaKS/x1RdR3hE9zLQ=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorViewController.nib</key>
 		<data>
-		85SRkVfQIJLcR/7jA8JyRRzQrgw=
+		PBdKKVFuiUPvnbIEJUJo1tXJCDY=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressView.nib</key>
 		<data>
-		IxvOuBZpDuaHZIomh70o+ys4aZA=
+		vj+tmNnHs4KY/uFwcmckuTCWjj0=
 		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPBlikDetailsViewController.nib</key>
 		<data>
-		JohgogsNkVp6BU5VH8V0sTZ5Vl0=
+		EBgl9Z6GJFDSVmeFD/ebKMMPf9c=
 		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib/runtime.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib</key>
 		<data>
-		5y6GETw3PAPMrQm45j4ved+Gvqk=
+		Zjw2Xqfsp6KbJrw9tb5DPdlzVzY=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPCardDetailsViewController.nib</key>
 		<data>
-		hOqu4UYpDVcTBnkcRrj72w/7jrE=
+		+HJqntXZlRf/Nws5aGFU5KB/lsw=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPCardScanningViewController.nib</key>
 		<data>
-		huOBhJlccZMHPYlwR/3cfi1z/3s=
+		ptKmxCcc4mY1O9RJ5bx/gXJcF2M=
+		</data>
+		<key>OPPWAMobile-Resources.bundle/OPPCardViewController.nib</key>
+		<data>
+		pTZJWAszQbwre+01cUUNq7in62M=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPCardsTableViewCell.nib</key>
 		<data>
-		2MKZBScAWalREllCJWhRt77PJoc=
+		zvU9rBQot9zS86o/P8oRBKbIrmw=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPCheckoutTextFieldView.nib</key>
 		<data>
-		u4fUFdqVPNz6EcyUbAK1aB1/wOA=
+		SM1LQc6vHOiKKDZgu+2EjpSpTDc=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPChinaUnionPayDetailsViewController.nib</key>
 		<data>
-		zlZ2Rw7juNRRhFC2XFmSyt41OGk=
+		3FT85USk2l4YLYQBg8b1SE1vy0k=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPCustomProgressView.nib</key>
 		<data>
-		5Wu2onF1in8ZpeocHqPpnqM3vkU=
+		nFsHeMdDn1pne+fCk7I1i5BruOU=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPDirectDebitDetailsViewController.nib</key>
 		<data>
-		3CQOS+zI4PJTHTFYtO8H5yTtSzw=
+		aU02oSII74pz/VXAlUdGjN6aCQ8=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressCell.nib</key>
 		<data>
-		XhFIu6WjDr66RzLi83M2IncbnhE=
+		W3kJT2+gmfr1/wbpDPYnfrxGSzA=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressView.nib</key>
 		<data>
-		UjmffncSbntpUZHMS5IGxXuGl14=
+		1SBCyDrXoYjoKHh9zrWqRkiVMgE=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressViewController.nib</key>
 		<data>
-		P2TiX8Ciah6Xb+SsxsS8u+hqJdk=
+		QMunFQpL42N+uDHk7oV3x0TIDIY=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPGiropayDetailsViewController.nib</key>
 		<data>
-		T/VjAgYdo+7xLacsizAOHSArZyU=
+		YpQEgiNMCGv8uOTwTq7nLWeMS6M=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPIkanoDetailsViewController.nib</key>
 		<data>
-		IfbN7HneEfPCAmzEU81Vn4O/CAQ=
+		zp/LlVkh1NaM4YrNWQQ9nIERzgo=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPIkanoPrivateLabelVADetailsViewController.nib</key>
 		<data>
-		FpAlJ5+gvzW7KnwVPzg8Pi575Ug=
+		pomrxvXps2BIkqiek/g8mjHx7os=
+		</data>
+		<key>OPPWAMobile-Resources.bundle/OPPInstantPayDetailsViewController.nib</key>
+		<data>
+		GnpQbkSg4fpdQnAkDXsp/+YVsi8=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaDetailsViewController.nib</key>
 		<data>
-		3KE24dWbdO/IREkRKjJ+r5RAxjs=
+		AoIFCkCMMBDfraq9rEiGaHrcJPc=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaInlineViewController.nib</key>
 		<data>
-		rynITdFPVDZeM3jYqs8WihBKUrE=
+		+AMrVOOeSdXJHnZ4kbRY2jSPvL4=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaTableViewCell.nib</key>
 		<data>
-		Mkl8uUPH06eNn9pxb8r3b8794K8=
+		kq88MnDbmuGoybARjo7Cv1+huvk=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPListDetailsViewController.nib</key>
 		<data>
-		J5Y2MFcg+xpDkZNFF3EmRnLUwq8=
+		iUpwnu9NCCpJ1rfAIYV7yZLAXNM=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPMBWAYDetailsViewController.nib</key>
 		<data>
-		I5yTR82FK8BSXCgmSr5yhybQ2lQ=
+		HLUysq+5JnMhpzrczBdfi81TN/w=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPPKPaymentButtonTableViewCell.nib</key>
 		<data>
-		TXEN2sV0ZmqkBGojGspvz8V2Jj4=
+		CtDRYuU+uOBzFvdWrOnGNzFMb98=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentFormHeaderView.nib</key>
 		<data>
-		7SSb7cCTLEcWFGyV+tlQFVOSLDk=
+		wbfPdCrPgUDF2ZfedNsEtohYh+Q=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentProcessingViewController.nib</key>
 		<data>
-		vxhgZuqMl/X8HhlhGvW7tTOUEQ4=
+		vZpcV++V9DW82WR7EcTLnVFb+pU=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentSchemeTableViewCell.nib</key>
 		<data>
-		hMRzL/1JuNo99QqVsHBUXGNWZZg=
+		1SgiqreDIvutx0wKUH3j/NFixFk=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentSchemeViewController.nib</key>
 		<data>
-		ASU1yKo8G5zR3hXjsapP5QfQEhs=
+		saDDNnm8QEoMVKv5ZiL/vjIJS8s=
+		</data>
+		<key>OPPWAMobile-Resources.bundle/OPPPaymentSelectionViewController.nib</key>
+		<data>
+		6mqkgtMO/P+XBmnZlgVjo7gd+H8=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPRatePayDetailsViewController.nib</key>
 		<data>
-		stisb5fqoR9l8ekvWDDmUKX9DLc=
+		z3iEjUYB9e2SlQmo8W2DiRIOqWw=
 		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib/objects-11.0+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib</key>
 		<data>
-		U9Y/Abq/0HAOyndtStjgpouEn0E=
-		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib/runtime.nib</key>
-		<data>
-		3Qhhg2bucgEJV2ql77rO5wR9VDs=
+		sX3X10gfoMwfEPFCRgWV3ZcJx3c=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPStorePaymentDetailsView.nib</key>
 		<data>
-		4mnZTvMdPx8XLEZ6doBq3OE9llA=
+		skS/TlLdOD+0GgctYTd9uAjznC0=
 		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib</key>
 		<data>
-		9i+0aQvza0W6P3Oq32dQttt+2gE=
-		</data>
-		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib/runtime.nib</key>
-		<data>
-		BJr3g4R3YAkd5oqmx5jAshYF7YM=
+		MqOVGHVyjPffxmlg8ZBAYnAhfG8=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPTokensTableViewCell.nib</key>
 		<data>
-		BrsvHId9OjdyqWSxrVTK2Ed0ctI=
+		ARrZdzLstHs58miRvtmKAQHpf6w=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/OPPTotalAmountView.nib</key>
 		<data>
-		+2KHiWMKz+z0OeH0AdnPmn/VTUg=
+		BVK2Vxp7vObQ5fuzB+4e9F0ZM8o=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		YSDg1WSh3I9C9wPgHSS2/n7rJy0=
+		lq4wh1r/0y9CF9CcLARH68oR46Y=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -378,27 +430,15 @@
 		</data>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		4/P1WgThY90MF5ITJPsl8qTTaVo=
+		klIuTkKFnj0cXgRukdFyGsrZKPg=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		Nevwvs96vYVpRi0x0nV8z/zhWRs=
+		ZyKTJy+OZPXAg/nfIX0xKzJIiSY=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
-		<key>OPPWAMobile-Resources.bundle/alipay.png</key>
-		<data>
-		faHV+0CmotBj6GrrfV+D/Cr8JFI=
-		</data>
-		<key>OPPWAMobile-Resources.bundle/alipay@2x.png</key>
-		<data>
-		uUDQ6zLWQaEl7Hr1382jtqelGcc=
-		</data>
-		<key>OPPWAMobile-Resources.bundle/alipay@3x.png</key>
-		<data>
-		ixzaeeerWU5yhdkzCShzJnxiRY4=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/amex.png</key>
 		<data>
@@ -428,7 +468,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fnOoATiBUry3hfKMy+gOOZP0FB4=
+			pszDu4QUL37eM+pliClLPX0NmKY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -457,7 +497,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RhSfkyYE1we6Gg4npHU+E23ZarM=
+			vzi3XXSWGKrEhN3lvobQdj/BYFw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -500,13 +540,13 @@
 		</data>
 		<key>OPPWAMobile-Resources.bundle/copyandpay.html</key>
 		<data>
-		NyVi1Y65bixG9IXl5XCFzioFaNw=
+		+t8dk218NzmKQ59Sw7XzBkOl5MM=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/cs.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p6FlGO8BI9yfknCVwPRAO5QCWQU=
+			lMhA2AN9FT0jOXrRKSAOLMQhMUU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -515,7 +555,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zXsL6xz/M2b+WLEZfgmH+CcLYfU=
+			raKDkS1mo8pLhbFvLPbNbWjNlIE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -536,7 +576,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R7JG4w/MfONec5GdRMbZacVQQ3A=
+			6PppL5xXPM5PtrLgTjLUUc4epeQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -545,7 +585,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dTohLw3rcVcN8KmC2FEPw41LINk=
+			Vuz7P2o6tmZRg0BN1eo3upPf8No=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -586,11 +626,20 @@
 		<data>
 		AKdBk0IDvZ9ihE6Lc2MrLEFbkDU=
 		</data>
+		<key>OPPWAMobile-Resources.bundle/en-JP.lproj/OPPCheckout.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XgQuWZcmWOw9zIB6ValyBWq7dfw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>OPPWAMobile-Resources.bundle/en.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P4Qg3ejjqLhRCnO7pa5c+4N5xlM=
+			xfAyDcNXJyHLaclhDVWRJ/sn6bg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -599,7 +648,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ORez78pTwmSepbg0LoK9jzkKhsU=
+			bBqL5PAT6Aq9sBcChY26gYpGRDE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -608,7 +657,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SxkSGadqoGkf2KcQoqyUFi8m7Jc=
+			jDj2R9pBeKJ6anDMT8FAZvyZgPM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -617,7 +666,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OP+e//2o78Ehemr3ZHbFS3TpoKI=
+			Z4y1W0zpRScRVRt7+0mFrDa8Qcw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -626,7 +675,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Luqj0/Q908UkRSefRdAwTjxoK9I=
+			GmvRVa2MbA1mNXQEOnpgtP6qQtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -635,7 +684,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F7Y3+rSxnZ6oDU9Jty/buwhx5jA=
+			qrku+zA5ekVuzr16iqS9VcDBdjk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -644,7 +693,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XRK9pT0kRYlySwSvWLC221bRp0c=
+			7fTYNlQbgGSnVSgypX1UCDZxea8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -665,7 +714,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KU2RQCAL338mAgklv0segwtnCQ0=
+			eoqcvxWDwObyVyRRyKSKGz4HFZ8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -674,7 +723,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z2vKD/uS79obICv1Sx/tQHiigQ4=
+			gGRiRJQDu8SCqmgKl5vJeH8XR9M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -683,7 +732,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+BUV/wejypX3TWuSrnS4lh/ohpY=
+			0pEoAX6CwW14Uu0sRlaNpw/mmYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -704,7 +753,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rPu7NV2xIRVIGJDdGpjy8CWOIE4=
+			c+Wo7yMXEUajubquPDiyAAd2MZE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -713,7 +762,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CgzvcVDgN7Bi8yXnwRaCbJZjTCQ=
+			Nu3CyvbPVU76ZPqBRxVOFCGkktU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -722,11 +771,15 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7PjEhd/JWyHqLQ91S6KB1WfrGyo=
+			oZ3DupiZxVdr6+ozINZH0YDEvys=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>OPPWAMobile-Resources.bundle/javascript.html</key>
+		<data>
+		ilokI6sjJlXRgBIKdfoi6yQSAS4=
+		</data>
 		<key>OPPWAMobile-Resources.bundle/jcb.png</key>
 		<data>
 		kXlt+GOLI+PtgvjANXq3COpkWW4=
@@ -815,7 +868,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v4gXLpHCgHgjx/rAlAckVTPLqKU=
+			IYjYCTy8SHzk805O48WXMYnNAsc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -884,7 +937,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			37knaVClCs6DIk7ZU5JyYDRELLQ=
+			H6ENnDeosJMBpJveS+0zZPVTTg4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -893,7 +946,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IjoY91egSkufabbwYR8kSWnMacU=
+			ztYS/9ktnTNwq1jchiksTK1ZHyg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -902,7 +955,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZtQVZ5y/1H4yp9xl5IXAzGeoffM=
+			qW8qJ3qCxdl0lkp4U0zblmZWJag=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -971,7 +1024,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bs/99WvsnPThCUi5JeOnwNAnJyc=
+			LyT6nbUik1VkJ9HZbW1xLOWdyIw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -992,7 +1045,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lBqvfAa83t38UpuBUU8tAXXYrIU=
+			iTC1Eu65SbDH6K9T9hdmrtjC53Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1013,7 +1066,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uZpmKlY/RuG+pAfQfMN3KVTlgoY=
+			KODPOlFrD6HZ0rkGF05/oVSruyE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1022,7 +1075,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ul1ojlguA1N313yElIZzrfTGULg=
+			MVXp0yft4qs2HpshuqqocFL01/E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1043,7 +1096,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4XFKiFDeO3oxmCq1X6fJf2gham4=
+			DCU4hfAXpyiXXYck+DOcCh95m4k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1052,7 +1105,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZiNjDRM3e979EpndfjJAlqK8foM=
+			q8bJ5pbmH+xuNSSxe/6aeVemw6Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1073,16 +1126,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sKfILQhEV4Wl3n18XAOsDx3z/Yg=
+			aJbvOpNmT9SiduVrzxGCz0oOohQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>OPPWAMobile-Resources.bundle/style.html</key>
+		<data>
+		okBaqTKgx79rFAdT0UOFOqlqbzE=
+		</data>
 		<key>OPPWAMobile-Resources.bundle/sv.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rr3/4nXFX0ZDADKqgnY/AFSAKz4=
+			2zxci07zIUKfyo4zNnC4FYYdwTE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1091,7 +1148,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g2t7G1k6ewNlSd44Yx3y1MDbnBQ=
+			rz2pDZVpLUUD3x3q5hv4X7oujMA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1122,7 +1179,7 @@
 		</data>
 		<key>OPPWAMobile-Resources.bundle/version.plist</key>
 		<data>
-		/Lule8k8nQU5AbOoXlS8hhpBcc0=
+		Cu3vG4PPojyW6ewDXeMySG3/CPA=
 		</data>
 		<key>OPPWAMobile-Resources.bundle/visa.png</key>
 		<data>
@@ -1176,376 +1233,471 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C2oFcTsFnKTId+v1zqYwRexYd2M=
+			fUwrumHI3ktsghzQru7srYn5ABg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		UIS53iFQBzQQES3a6nJ3W61UtGM=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/OPPApplePayPaymentParams.h</key>
+		<key>Headers/NSArray+OPPPaymentBrands.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hoEAfrkRj5jUI2g9Fju2AC1KGwN4gWch53dE3wHjvo=
+			Oess4S35Bkw5ngY8yqaiwmuKYelYlKibB3LLfj68OwI=
+			</data>
+		</dict>
+		<key>Headers/NSArray+OPPPaymentTokens.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			41qdg8NNxGh+6gaBqnsdVacGJArk1suLfnFabfFfHfM=
+			</data>
+		</dict>
+		<key>Headers/NSString+Security.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UierK6SxyAuJG/uUWLDmbrTR+z8eLPZ3LVaMZzZy4To=
+			</data>
+		</dict>
+		<key>Headers/OPPAFHTTPSessionManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EPsOAwWU+x63fJ/O0LwtKvBv7fUfxrakzh7nUoWVTdQ=
+			</data>
+		</dict>
+		<key>Headers/OPPAFNetworkReachabilityManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a6ZO83ScO+cRt8pXpxiTLt/dOg/DueXiYLX+tJf1C0I=
+			</data>
+		</dict>
+		<key>Headers/OPPAFNetworking.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jr8EkS508D0ooM6kfzJ4jwLY5drv+epYtiikmdIA/cU=
+			</data>
+		</dict>
+		<key>Headers/OPPAFSecurityPolicy.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kpezw/MLVf+mGDMNFwInvc2Ppb8w+qOvkBqHUaX/lus=
+			</data>
+		</dict>
+		<key>Headers/OPPAFURLRequestSerialization.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m9Q6ZDLKWr25NDHauOHyxNsxtmIb2grmiKzg1Y9jU6k=
+			</data>
+		</dict>
+		<key>Headers/OPPAFURLResponseSerialization.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fNMk+8PWOy4mwiO+8p6zIwl9y5B3vPQLhef9xVuUZB0=
+			</data>
+		</dict>
+		<key>Headers/OPPAFURLSessionManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Me7HovQdlPF680BfbExZuLynm3wvIACcTWD1W4i20Y=
+			</data>
+		</dict>
+		<key>Headers/OPPAffirmProcessor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A/eBz4DWlKlwUvLyS7/GeeseEb1lDP2/Q9hVlg1F8xI=
+			</data>
+		</dict>
+		<key>Headers/OPPAfterpayConfig.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			In390ll1eRgi5EKLoMEPY3TH9GbL0Tp9QCusvhIooaU=
+			</data>
+		</dict>
+		<key>Headers/OPPAfterpayUtil.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sb/1Oh3ZjJUIvs5a5I5nwx5KZSYDsJWD8RkDsGCSMRU=
 			</data>
 		</dict>
 		<key>Headers/OPPApplePayRequestStatus.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h3R5M6HSXjLu55vmSZxiofmmJK8tCnxCqo1MOBR2VN4=
+			APAnGIZSNYSzjRBU5tRguSrw015YjzcGB05usjKHelM=
 			</data>
 		</dict>
 		<key>Headers/OPPBankAccount.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+xkOI3o9Vfj94A9iamVva+kSL/jyxBJczgdnBh2hByQ=
+			iwFzyfWwNgZaRgKWhwkdyL2Z7UZntG11UolYo1OwCJE=
 			</data>
 		</dict>
-		<key>Headers/OPPBankAccountPaymentParams.h</key>
+		<key>Headers/OPPBillingAddress+Validation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mPvyWw3gluxw/e9ejNdmG3LJjM8kuMRpDCzRmTbO8DE=
-			</data>
-		</dict>
-		<key>Headers/OPPBaseCardPaymentParams.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J+gJASTMyGXJy5VwrmzluNr9whY7fvMoynGW60oKT6E=
+			Bh1pGAmd+Rl0a42XQ7M34L+uEfQyBEF91HW/QyE/nQc=
 			</data>
 		</dict>
 		<key>Headers/OPPBillingAddress.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			duUAYmPDAIB3pl3fusJ6QAACa+fTB4214otwj5X6xKo=
+			pxSd6vncFk5uJHfet1PEsn2/JIRTHwp4OYOiacZJTcI=
 			</data>
 		</dict>
 		<key>Headers/OPPBillingAddressBuilder.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YMNK3fMAMTa5/3ROZQEyzbt6gnx94ky7lBPOjbJeaLY=
+			j3YsjrOar6Tg248JyZ5EMXE0cuhgSLb5Wnogszc1cR0=
 			</data>
 		</dict>
-		<key>Headers/OPPBinInfo.h</key>
+		<key>Headers/OPPBrandConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tG8gU85r3v3MYU5ZAdknULyHxr4jyhlTYzjwg9sSJvA=
+			mbfHDFlCcK2CdpLI6T8yYkfOv2vC+A89BYzDE5d7wMU=
 			</data>
 		</dict>
-		<key>Headers/OPPCard.h</key>
+		<key>Headers/OPPCardDetailsComponent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M6XfivPBPqQpSDBg2HlHuBDUAyX6HebbANASPQN0Aes=
+			iNK1+M2zfr8elrhOQ7UWBQNPXFoDffLcXHP4QeHrOOI=
 			</data>
 		</dict>
-		<key>Headers/OPPCardPaymentParams.h</key>
+		<key>Headers/OPPCardDetailsProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rF+L5tlRfKAZcje97fVdho0nhg+HpbEVQkwMvAyV7zc=
+			9ORQxng1niRxGS5aOrHCs/6hRV8BI9bjPGkc10qouqg=
+			</data>
+		</dict>
+		<key>Headers/OPPCashAppPayProcessor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1kZoaZfOCCJvPCkdgZagAhJ/gwvDZJn7zRq4xr2G1y8=
 			</data>
 		</dict>
 		<key>Headers/OPPCheckoutInfo.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aVUBTkrFjSw8SwhHcLdWWbf1mA3qvXQdVPuWb3oYQps=
+			CBuXPhW1I4SBtu1ahmnSAu7SrQ5zF5SoV0ey6/mE2ZU=
+			</data>
+		</dict>
+		<key>Headers/OPPCheckoutProvider+Server.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9AoSiNta4haZ7CCxs1qXe/Z7i//DFMQFqtgwid5Q+vo=
 			</data>
 		</dict>
 		<key>Headers/OPPCheckoutProvider.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yIMG00rC9OqLL56r7h5YmV8DwUrvCl6ZHo1xfdUjrbs=
+			DmNFesIqwctAZoV/ONg+rZ5ilRCkvH+E+6Wpt6aZOa8=
 			</data>
 		</dict>
 		<key>Headers/OPPCheckoutSettings.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZsdsZhM7fSNj2cZt/nsxfzEWl6vX8a6xHCh5yrlWCv4=
+			xDPkFYmIKvyELAbG1weoT8Cp/bWkBNByXwZ86gA2ELA=
 			</data>
 		</dict>
-		<key>Headers/OPPCheckoutTheme.h</key>
+		<key>Headers/OPPConcreteCheckoutProvider.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XUbZF+Ua3QTWv9sSOmv+HKwELoKZDifGAGFalr1HRI4=
+			Mg0jWZPxkYq2KvE0toi4nvSCX95FZ/Q0fM2ergs2/zQ=
 			</data>
 		</dict>
-		<key>Headers/OPPChinaUnionPayPaymentParams.h</key>
+		<key>Headers/OPPErrors+Private.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			divIhFQF7M5jOi4iIbOoWo27/s+SVSz2y3EgZj0irIQ=
+			qtTo4a+kkPfN/uYUTAlFG5kzYNxeExTtBMvzWRNfXn4=
 			</data>
 		</dict>
 		<key>Headers/OPPErrors.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MI6ryJti/wLBhmXqGrOCK9Teluj+2pGL5mL8hjJ/9nk=
+			jUWZxyR8ZCx9TkKQUVEXEJtSSzz7W3EcT+gZ2emhcp0=
 			</data>
 		</dict>
-		<key>Headers/OPPIkanoOiPaymentParams.h</key>
+		<key>Headers/OPPFraudForceUtil.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kW3A8tvMGf90fRlojsbYt/d6NIzAoURfzzNdlVVrZSY=
+			tgBjNnoBj1xPMGiOicAu4fhE3B0i0sIw/nFR+xYlMYI=
 			</data>
 		</dict>
-		<key>Headers/OPPIkanoPrivateLabelVAPaymentParams.h</key>
+		<key>Headers/OPPKlarnaPaymentViewWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ILRsqo6PrZ+T+HHbKlB+G4I/ZDaprsREtY1f9WeepCo=
+			b5s6YDEHT1icQyUdulpkLkVddRHTIZAgJJl9Zg4squE=
 			</data>
 		</dict>
-		<key>Headers/OPPInicisPaymentParams.h</key>
+		<key>Headers/OPPPaymentBrand.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3lhN8UqQ4TQwruOOsljlev0sWqMfyYU/oEbfLIKLw0=
-			</data>
-		</dict>
-		<key>Headers/OPPKlarnaInlinePaymentParams.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JNztj/ugB+o17EmfrIb8UZ/sL8LU0j1HGxxWzUGms2A=
-			</data>
-		</dict>
-		<key>Headers/OPPMBWayPaymentParams.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TpjABj7ZkJxcqovH2Id+VQRx3HkBVxrInhOTGNbknVk=
+			5u26A1gy0RTOEEa7eBVvvBhmXoHZG/uAofrIrWNl+nA=
 			</data>
 		</dict>
 		<key>Headers/OPPPaymentBrandsConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwE7Qc5jeNSVoS+mzK0X0CFRioRX2qUzPHU9740IA1s=
+			x3MtpbJbd8iH4RI+66QmqVxBTbHTHkIkQ8bWl0/4e1Y=
 			</data>
 		</dict>
 		<key>Headers/OPPPaymentButton.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4vGHrq8C1HsM4xl5R6Zc+C8QQYeRVrXVVKNQ+OnUxO8=
+			uAdBDKDBU3vNYmwpZ4iGs1uiQ+nYSOGTqewU43q94cs=
+			</data>
+		</dict>
+		<key>Headers/OPPPaymentParams+Brand.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eX1IXJ6GViHUlM4fN5mNHu+tx4F5fcBUbSPI6nOq6Mc=
 			</data>
 		</dict>
 		<key>Headers/OPPPaymentParams.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KmsXfbzuk2TwuyIhmEyQe6mrtDovU8t1dxTps6Gb1pQ=
+			8x3JqVwNia5xfUDiINLMA/D04W1Q4JZu6B1cbItsEWc=
 			</data>
 		</dict>
 		<key>Headers/OPPPaymentProvider.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pPO7bZ03I0Algf9rHoPTXFw2x2uC5MRQvchj3AXPees=
+			oa7jcd33tx4TDA88VA3gZDuWHhUBGRUSSmZwJgq+rZ8=
 			</data>
 		</dict>
-		<key>Headers/OPPRatePayPaymentParams.h</key>
+		<key>Headers/OPPPaymentSelectionComponent.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PfRUjCSfHM4kPdIIUn38P65HToFvnlBQtHIMJieFKgs=
+			W0RIHxNxGlhkiMnNGBa/CKNuzOKhGPVR7ZKJto82kLI=
 			</data>
 		</dict>
-		<key>Headers/OPPSTCPayPaymentParams.h</key>
+		<key>Headers/OPPPaymentSelectionProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W2vBnnNUJmQZTro40aXxjgOidPQZnh72bXUuAP6gJMI=
+			PW2jeWfrbruW1k3jaA68uxU+cYhJgc8eVy5E03YG4vM=
 			</data>
 		</dict>
 		<key>Headers/OPPSecurityPolicy.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rJliRTznkMXORGjXiiJqmGy4ClVftVHoRtvznl1T6zg=
+			lgMHKbge6JCD/Ol/HIBESL7qN+dLXqkLlTuGnjOLeb8=
+			</data>
+		</dict>
+		<key>Headers/OPPTheme.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NmcsuXH9eMPGz8h2cQXlSjy1cAJ+ct/3bx85cY5wEIA=
 			</data>
 		</dict>
 		<key>Headers/OPPThreeDS2Info.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YwKmCb8+5QP7tYJL+EtPtPipfAgYvcx/Mw59xdG8IOA=
+			uhFepvcwYZmTJKDPcR+zKWTiovPAWRTX0/Mc3+liNmU=
 			</data>
 		</dict>
 		<key>Headers/OPPThreeDSChallengeUiType.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgFyIov9qH57pq4o8bdnqS8nENtau8OQRYRrYYvsWe4=
+			0NTdHkKVt63hIBh0EsgkzVuDB/p5PTtdHsPdRZ3RX/Y=
 			</data>
 		</dict>
 		<key>Headers/OPPToken.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/PL7k4M5n778ceacUHd0AHamXSoXtG+i94NQcKXymu4=
-			</data>
-		</dict>
-		<key>Headers/OPPTokenPaymentParams.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1nB1skmXXXpIYhY+n3InM+P0lDag49Y0ST8l0Uo4LxQ=
+			1HDUXdSU4RO5vPubm60Hy8yZOG5ycJEbkLvcW7eOUHg=
 			</data>
 		</dict>
 		<key>Headers/OPPTransaction.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mQQlKJX6mvfKRmXulXinE3q+50Ud8W6cdiVaPcmMBNI=
+			6AL2zf9d/8PyNFsahopdKiDDXuCMWahq/HrN4PSlilw=
+			</data>
+		</dict>
+		<key>Headers/OPPViewController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vGhz2IU9AsF9cofZZfLUIgp+E4+XBmGD5od5LR6iHWc=
 			</data>
 		</dict>
 		<key>Headers/OPPVirtualAccount.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tn2B+m91inDmll8KwiTB/Wh7+9oUaLz0OZXpKiNjoiA=
+			DWcrU39J8VHkoo1s8+Lm7ztgi/4esInB+vm38tPgb+g=
 			</data>
 		</dict>
 		<key>Headers/OPPWAMobile-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VmspCARKaPXSdudm999ZqKyPuNPKoFC6DHhlRmQCuGI=
+			v7WKixQ3Ue5O/XrJiEwoFFZ/lomQfPmuiJb4RTlLAug=
 			</data>
 		</dict>
 		<key>Headers/OPPWAMobile.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K2/qwPc4W2DONVqD+UPtddSGfNS74d7JRQvcIt0F0S8=
+			jRyoObmBHs5/IxkXZ2hO158qo7YIn2/v4k9DIbw78g4=
 			</data>
 		</dict>
-		<key>Headers/OPPYooKassaInfo.h</key>
+		<key>Headers/OPPWpwlOptions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DD0d78G1MgZygs/WCvhuW67AbMVPPDFup+BNABR+FA4=
+			cL19kt9ywlVgKiyEOqENTwUEkRgSMYaqePoqp5sLXZc=
 			</data>
 		</dict>
 		<key>Headers/OPPYooKassaPaymentParams.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d7CKZ0aKbhzIc8t8npB6Yw/N+i0BhYQkqWhsk7OmyMk=
+			ndpTWu1rDB7ePkUPPq8T5OqLsP3xeFKDdOuczDa1Tqs=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgABcHuuy+HQGa4u3OdJ81ibLvT6gBqwTgnWv3ITdO8=
+			Na74kiBlw7IhkI4piqT6uvxZ9OJovg/OqbbWYrSWPck=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			573pLO29iWhSUoIbyrgPiVhtL+qmHKTfrynXg5ujFW4=
+			LYIVHOHiu3EsX/3NISuZkfykkJEcaTMHG2MGyA9OELg=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChkiJNl0vXNd5jqt8p4kjmMSsJRp/woCdEnLKChiNew=
+			M5z39Z9TNcG2Amp/rHtjj5rG6aR5tleyIXigM+ps9xc=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKgWCQG/U1NN4QFa3kvp+TnAvvwBg6FJOS58HK44xms=
+			9AobmCzp7qxXr+iD4M8l2UDJb36VqncUIJBfykxTi88=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			saY/JV/dX5UMowXHGbzU3BzU5JjtfwqqujbslK2amfI=
+			HjN8qFCo1YKUyL9lLig8aYnStLzTRR2VMiNajiu4kCI=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKgWCQG/U1NN4QFa3kvp+TnAvvwBg6FJOS58HK44xms=
+			9AobmCzp7qxXr+iD4M8l2UDJb36VqncUIJBfykxTi88=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ctl2pXYPDyKE/bsCwHSLVB0EBrIFdyhgequh+gI49gI=
+			DFpF0JB+I+PhnTKiPJh8SneaRO/CvBfpR7z5CiZyuIU=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChkiJNl0vXNd5jqt8p4kjmMSsJRp/woCdEnLKChiNew=
+			M5z39Z9TNcG2Amp/rHtjj5rG6aR5tleyIXigM+ps9xc=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3SBYCrzeOkQ2Eul2bIcz2J2xZyNUr/GRwgGHKQAn5M=
+			gH52JMhu1NlJ0fUyZMwrEQ9LpsgndwFoZKZuOx4MtTU=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2MfQEiO5Rzp9Da8eiULbdVlwB0XErOILaWovfIPWzfs=
+			9YypSnOxuGF6W5y6Pap7uHYDvs9zH/WAAf0xNXE/lhc=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3SBYCrzeOkQ2Eul2bIcz2J2xZyNUr/GRwgGHKQAn5M=
+			gH52JMhu1NlJ0fUyZMwrEQ9LpsgndwFoZKZuOx4MtTU=
 			</data>
 		</dict>
 		<key>Modules/OPPWAMobile.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XP40Ugt7cyDzqhvCJQhJrh0opExzVg2V9xPn+DB3y6I=
+			O6Rl8th6+P/LBu89WKEWSSn6In6bX1Q41NFBYlvnZ7w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y17yt4CxheJ0UFcibF2Onc69sK36LZ3ayXIQmnDwOXA=
+			OFo2+v4KMZEwhBxr1Q40KEeeWK6q4S5057X+XDI80c0=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A+DencIdYvrLhdygoivkNFrCOLTQ05/jLfFRt2ytae8=
+			sNbL3msrLt7gKWrH4E2sH6It9Kv8H1UWt7kRKFczGIM=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/Klarna.json</key>
@@ -1555,270 +1707,270 @@
 			I0JJw1UWk0leEqc4JpCDD8w/E5h1izwFoHEGWGNhaCo=
 			</data>
 		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZqlOIsny6s7N9jb6CzVy2PksADv/NXPYuHkI6U03nUk=
-			</data>
-		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuhFAGk1oYexnuSyVvs14mQrSkZmik7P2b35AYUCGTA=
+			wngkSn7tDdgByA0jurxq13xdYpqDj+qd+VZNrFELDio=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressSelectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wGXaT0zX4HzScwzom5GONj7MWKu8McGIJ8OI+ipNZCk=
+			aQutXa5v+pvmJdIy/wGaKtHQQQnSMvvc8pSpcIae9og=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPAddressView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H2jjiUzouO4K9a/GL6HddOLgCcuQUQGv5SatmTXdxb4=
+			f1CQudou1uiM/8dUcx69AS5Jd7SZE5/r4+0DLEYnTTg=
 			</data>
 		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPBlikDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BphHtAYH/qMfLW8dmJ+EXu2yMLNPTTeODYNv6eWzN84=
+			nkhc9XYI/9dgLtsJQm/TFUlvTpTarPJLbF5Atq10Dmc=
 			</data>
 		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib/runtime.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPBrandCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+G5C6oTTzT+rM8vha266waxAXiFiPnBynexRD9FsOyk=
+			5cwZxbytXdTiSbbcTPyyMDhXR3qXf+KE0Cuvd8aVpIg=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPCardDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LqmPtM20I9dPhDBZvKkamJLnhStAVUJhN/kQZAhHbFM=
+			X5keKfyFncFcxqGcZs6xXSj0EoLaZX2KXgLKINcfhOA=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPCardScanningViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QT1M6TZpiGLql8cuW2BdJ+ar4JM5Y1fNhx+OSdwVDLs=
+			kqEfwTAGa6u2lxTpk3/LafB2MYomwosWuAvHvlCPvsk=
+			</data>
+		</dict>
+		<key>OPPWAMobile-Resources.bundle/OPPCardViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpPftZHUPz0tTXnlsux14X/hM0AEeTzyHubXOYGeY1s=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPCardsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6mQO8gm+9nIvOfU/gSzW2XJ7UxQDPLObRyu1axB9LlQ=
+			gee3PNmCyS2bBKdpiLF0GcGGSuZC6d6fHzA/VuaAedA=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPCheckoutTextFieldView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			knl7yDvyzxO4qHEaV2EKLvTdYk2PhG3GVE2Jz2izW0A=
+			PsgZj7dEcm7sIp5Yahog143TjICedrUtykahBAqJqm0=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPChinaUnionPayDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fwm/NVf6TAnR8U0mCsHpJWbYg+/oFeIKL/z+epH/2U8=
+			MSW0J+W0AaXr/GkY3NzcGQIjE7AO2az3vgCBDjtFIxs=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPCustomProgressView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DqzP0nhQPDzcI1RiEWocbYerGJ92txeYxrLoH5wdpX8=
+			9bRk/IadMAW1I6U4M5xqRZIlK+qTYeBxwM8/NbC12/w=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPDirectDebitDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KooJqFQcQuUwacL7Cyw0+Ds9XoZSF7CpuxBWHbsxEgw=
+			A5nlen/mXcdL2kpzcc5H81jBLH3N/9OQEJYQCMfZ+dM=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ib+2XZDs8u8Iri62ftsU13t/UApH4xsrgpDq8FL2Jro=
+			AoLSZzP6mYUoT9MmyoZZbbyWa+DhwNEfUwOWwp0C3dI=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uNYQTBX1FyiXIKFRa9UkFyScPytVXXXjZ60JgBuJ8Iw=
+			sZ3MJFOK2B2FC+lM2yuwIfhE2EJdWV7se5B1EQ5MylA=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPEditAddressViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrffSBFMYIk+9oqeMBL6RjvaCaqKvv/EEHh61YiQoq8=
+			cWDJeRJV7jvmb6c/ts/AlMWQm/4uxMrjbqPDobg3HZs=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPGiropayDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vh/jXd3/Fgsz1Zms1cYys+geLgBu40XAceGty+h1Mw8=
+			4diOSMqp/1kFDPMpWyVfqKy7+V+qqe0DXpNCQcoWSPc=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPIkanoDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVpGDX8MwSIaQJ7JO6/kkxcGXIAF/nUoRxamewEXXLA=
+			Y2KGO6fHyh/lBcOAQP1ImX8J4J8TrsGOmPhKecWO9qU=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPIkanoPrivateLabelVADetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zBKK+pEOTcYLqHRm0mpBVPOduaHtuvq7hKvd0NGZzAM=
+			/D8BLB0oGDn2IAE6LS6g0aapmJE2k2wDnZcZeV1VI4Q=
+			</data>
+		</dict>
+		<key>OPPWAMobile-Resources.bundle/OPPInstantPayDetailsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ObGo+S9QXtD7jAJVtG/4XI3ICoNOMsBP6LAF0nxf2YI=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sVrwCtIDlW2urCqhYnmpCVylItz5c1xSVasZqgtrpCg=
+			CofjhaFaL0Dc6iKONo5r6kDV0wBVIZ6+ssbGD/mCGPw=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaInlineViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DrfTAxvFumacyH1hbehnogzIsE7CQWJYJn/WP4BPQjc=
+			whMy3+dK5C6lfV99vuj4yJOPSlsqnOcToVEPdyJeAmU=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPKlarnaTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2az00FDREKqdA2Gz8QO2Jb7uhcWBsIyKTH4UTzZLZvs=
+			FXuGgwc5oIAzJVFsF+1hWaO8Z1LiypJxYvlosUYdfPw=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPListDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			urobPS6p/w6Vv1xlpxsHaSxs+hvSgZG9CgLhPntdIwU=
+			p9QNwn957UVPakRSV3E4hmdtLTee73U9GV/69V/Dfg0=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPMBWAYDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfLxvktSP4uWAUKDjq43gr6gaO0kmdoVPVn2HERe5vg=
+			kR/S+zN/G5IvD+F7dhYIDH2dd+5NjmZO03z7C1k2nUk=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPPKPaymentButtonTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b62LBfpP/4C3vSt78i66LpKQ9wIpVK4eGyq8zwCKzI0=
+			W/SCG0RtKkr4BMsl4F+D7uEVbCFJ4STg3Q0hTkqKBFk=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentFormHeaderView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKHLYa87VNfEB3xO5GukuvpGZF8jwnxuoaIv9C4xICU=
+			PZpYq8nvQuXws9k8JA03OrOjCWUst9+/IPHoeovpojU=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentProcessingViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pkx9YqAMNQEJBsCCYlSIOBvi8rMi0pRCDxq3DTHcGEo=
+			rKse7BM2hIVM1EskJ3O79XB5xqqX4+Ac8B440bIg83Y=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentSchemeTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MXVlA7P5vKtLRBOwnXJXSzCDJe/EqJO2U40+iBALwRA=
+			JIiEDw6SVR1T0A1ruz0bSBjWba0rwY1ldp9AnjqFmVA=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPPaymentSchemeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GpHGBuplOoz+tMUprBRAeP3+k10VN3ojm+KQH3egLxU=
+			Nn8tsn3Op3Zxou6A3ETHJYX+7B4bgPUHIhsQ5G9teVU=
+			</data>
+		</dict>
+		<key>OPPWAMobile-Resources.bundle/OPPPaymentSelectionViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WIsj41M6t67/NNJEs0ELbawNpphfEPPSmZJ+H13K5mw=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPRatePayDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jdbSZlQ9G5O/23tIaEDlLP/FwLS9IS6k1GvZQABI3o=
+			ieGqgEOBm/7Wlb8TvAPdz5vb10w5pyDakbaTOpDO4GQ=
 			</data>
 		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib/objects-11.0+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2f5wz+VO8j9/ZmcMcIA481cPhr0nX6/r1mgbFpc+Wg=
-			</data>
-		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPSTCPayDetailsViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			u3bj7BC7ccdk6qJ6DrtndFV0KSBJ48CJNIsEs7fw0JA=
+			VEju7MMcIX0nWW+frc2Tpuf6uzcJBscmuPuKkVTE5zk=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPStorePaymentDetailsView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H5zIzvuCcMGJL0IG+quW75YrEoFysUp0fn8ZjSNOWzE=
+			dsObyubb5CKr6hOQWTVX4hEfrb20nCr6C7ywzcuovdI=
 			</data>
 		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jWrfdWe1qTEsngIEK9sm5fVsmGME2kv8Yu6lV+/MBU=
-			</data>
-		</dict>
-		<key>OPPWAMobile-Resources.bundle/OPPTokenCollectionViewCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2617NErwhqjwKhTGFqMHDI2AraCFmrZiuyuJ1fPCjXg=
+			z5OzmbltcwlRmJ1yAtNHwrMIhR+FfzkErGdkoAB5F5A=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPTokensTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MuAmSnGAv35kRYKkA0EdUjdJKLX8uBeHLFs0XjgdB/k=
+			zpK7Mja+87AxK/+aZMdHeRJO7yJGf28A+g8+SHBebz0=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/OPPTotalAmountView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GyOm6cxAhV0H2zSXxXBg7w/zCYq8LP6e/N036aMwFiY=
+			89pUwUYc9ch5XDBybkbPnm8uwxyl0wdwjntd/fhUSiE=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IWlBi4rlJI3dpY/zJ9GQQd3UdE/oNBhuwuZDjXvIsEw=
+			CvhWejVfRZV+keHl6j+WWHF2HK0K7c8eUckC6xvCdrE=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeRequirements</key>
@@ -1832,14 +1984,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nJQGkBnfOpcw/flfqpwQyUApRfynOq7ptztQ4kT8Ilw=
+			BLcLfyvgcDdo0eolmjpjDeVhInuwJaD9Q1dUtm1n/6k=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JGrVC8GtfcM5IEd7yJMvYIKbczCnKSMYgOD1hrHGJvw=
+			2rA8S2o15QGNiyJ6m9eSRhxQ69AscXvRs9T8dVdxipI=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/_CodeSignature/CodeSignature</key>
@@ -1847,27 +1999,6 @@
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
-			</data>
-		</dict>
-		<key>OPPWAMobile-Resources.bundle/alipay.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LaikRDxI21RPxc/q/3ZElbv3+eIR8HtHOASX+aTeVLw=
-			</data>
-		</dict>
-		<key>OPPWAMobile-Resources.bundle/alipay@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MTYruBg+/1kzfz19kE13b1H0o/HOnvg3upPChqmvxO8=
-			</data>
-		</dict>
-		<key>OPPWAMobile-Resources.bundle/alipay@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lqkUmOJ+K8eYUgI+s1AnlU8QprahjEOkw4Bd/FpjnGk=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/amex.png</key>
@@ -1916,7 +2047,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7bIsG5vHCKQswkjH6PMe2M9K+6W7dAjhyAFW9Eyrr8=
+			/gjESIH60MeUnkScQvGUBv4yBFWaUvotHwGJ6lFEwdY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1960,7 +2091,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EryEeR3iB3XswkK14GpuKOQpXyo+HmzM7IJDhO23Pk0=
+			cd+Dr0Q1EvDsXvVkiFgWT7RiJVI7U38/Ct8F7Mbxqis=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2032,14 +2163,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qHS+x4UTbFDNj6d2MWFYSOrCA7TSboDyoHZrOByyS5A=
+			GuOcVHc25ZdCDsN/Inz0mnFufZZo3skYo91b3PjE+z8=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/cs.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AXtTavaeBlqzdJngg8aq1qC2e44CSrtFnqS3FP5yJyQ=
+			5GHP4AaBagE0g8w30snO+eONGZTFvVUyN1kfKdhwyFg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2048,7 +2179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kCuobCFI+ehBCsoLlgNRp5YCj1rZ7FXoQ9E+T06YmPQ=
+			sdFeQYppV1eOfZNmk0l5KuvU60MaBCWxngEmjPc/72s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2078,7 +2209,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			owqLfrMFAL9SdHY9gsfoY4nszaGwJvhRJcAtAWGRFJE=
+			+bJXRmWtzSaz1HB6vJEjfdIcOtZG5ZXxJ95jRbnoW64=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2087,7 +2218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jzMsbCgkF1cUkoM8j/4SNY2aHVZh0wlbhCQwRZkwDaA=
+			f7PBK6D5THzRep5Z/RdTUE/h8a3v3A7bGAUX7LJcw4c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2155,11 +2286,20 @@
 			XnyVO6r79K9on2XGJI4OXTC8ENCzHTOUx8GysxTv1TU=
 			</data>
 		</dict>
+		<key>OPPWAMobile-Resources.bundle/en-JP.lproj/OPPCheckout.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eMWOrE7E8MCTzfn1NkNWh1T8YdteHCWEYET3SnT0apg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>OPPWAMobile-Resources.bundle/en.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nGwTWTNk2P+ftk9dcLBB4K3+1Wqoql2oQcRXr37TbVE=
+			FH6pXGjN4H8GEK2SZ2J+ke0DpcjSDbNMFbj786JV9J0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2168,7 +2308,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wAmbyk2hbuBGyJEYLsCnU8mxpA1GNLoW9duf2BQLAf8=
+			xhFzd0j+FuREj6cmolJtwsndr5ePYHyeQAbdWAKqg3w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2177,7 +2317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qih0kia2OHW+0SYH/yu75FoJJ7B2CQTG8B1ghQn5Eeo=
+			hdW0BO+V0Ml5qMoGP699OVBolrbzOp1VJO/9+rQ2Yfc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2186,7 +2326,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sEM6NU6NqMKF2SGi18eFqXaI3EgX4/zWP8rmu+7sGU4=
+			oKGz6vPF2t7HVNoBUQgYiL0FGOiGAUzP51rG8zy+DUo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2195,7 +2335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hRCBEhreI7Vhqav7pNfCgZMEzA/nSLEsR12zORsSYmM=
+			I+sPeDh+Dho2OpJ/c8gxzCGFrknkjQEReyfT+Xd2yd8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2204,7 +2344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SjizQRYssr5e9qJ9ztMfEB/DbaTYWu/7Iq3iYJWm9EE=
+			V7+kqciGf0I5t2suMPT3sFoA/jMBIaqHQmH9Z+GDt+Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2213,7 +2353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7zpQmWz7yKXjypmsiFhP+hwAibjYQS2fDuZp5gGzC/c=
+			SR+T8ga9Sm2RIYxvBK/X1VfbCs1yUzlK+gmSv29DW3U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2243,7 +2383,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f8jTtI384W/4wRXTlR9y3pLt6nCCpHULOX5qJAvdZ6g=
+			qTX+Xd5sKimAPHgY2DHCSe+Ssv7tXpia04KPagBY1m8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2252,7 +2392,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lCRRUrTSYCNgPSrNtNAozZN75oC3ROJ2I/Hq5R+GTVk=
+			Q9py1aQUSf+qTsIpLke5yAhsxLB4+OZbAe/0QiJ05rE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2261,7 +2401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6f0Zj60O1AzOCpzIXZvvIwUXwPzkCgGBeAuM2jqB9E=
+			eOMs93+bcJDqrduXNDFyokYCSK44LsG/oaFgIQJsMxs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2291,7 +2431,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L1L4I4ODosCE7ejpUUmLzv9SAFQSbGH1ovaAYPC2rmA=
+			+ELB6IFaa6V1UYAHwBSieS3SHhDzb5tfCK2HtR58S+w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2300,7 +2440,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+xH9R56rUCKKjwmOM/g3n32vWlgT/a8EENsunGQSY0=
+			JJv491x+VXTUGzdF2BQ2yTxVPshG5E79lfUMvOaEpSE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2309,10 +2449,17 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTA7JgegHblG6JIfU/pltxrixY+UDgDAjoasbqxOv3w=
+			nRHxI5ZnXiNafRfO0fnBlhofU9EJHraW/EkwOC0jGNo=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>OPPWAMobile-Resources.bundle/javascript.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bBbZNCDtfGPwff2DeTpa83Zaq8zq5MLhdR6QVFcnj4A=
+			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/jcb.png</key>
 		<dict>
@@ -2465,7 +2612,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dhWc69GOrClGN+AvOeFNx7IqIQpufkZDNsclSqxdy9Y=
+			ecUVmFNBVBguD4TFO3FzaUZ0JGtBvAMgxcrCOkWIVy8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2579,7 +2726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W5CAbddYNQa+man/K4Y0TY1PXmO8QAyy3ym7GOc1CNA=
+			Mctv+UoSY0M5Ua8IkbIfLUUMAzBAp3nDTmW/BTBglNw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2588,7 +2735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iz2q6KfSiQJEfn9e44O6e+811YfDOA434r8F0xAlnNs=
+			6nLrQkJsBH6tMQSt3/S/ntrHg0lRfQW9I3phEMksECU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2597,7 +2744,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KCbHPC3BTTvsiV475vxMp/z8s+SzNQSiIg1p1nijNQA=
+			sNkgekRZKW0q31VQo6v+IInK+4Mc3n6INgaq1DhTh7M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2711,7 +2858,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ybk5KTx5FYqjTcBeisAvuj8pgOjDn/e9HRjs4SPwcXI=
+			V30SVh2ZCUhXVmp2fasY8/0UF+Sxat5LRnUNPBBiDvs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2741,7 +2888,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JgJ0dTpO4dKgcw3QjtMsnvdxnhcnPiSo+mTi4bc/Li4=
+			E+DEwO71sZCnT2nHJM/uHu7j4utGntTOOn0I8VhAxYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2771,7 +2918,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVBXjaYPwRbl1h802mqNi86Yg+6bPlc/XNxL1/6OJUw=
+			3nfbRGK+yerAVu9v0NVcBVoeZQQa8XFRQYyZ4uZE5vs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2780,7 +2927,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+E8+rXb6eAEVG6JSBzbkHLA8qf/hOBdSsyxfarIEEA=
+			ZVqAxo1yRq3kcrTZ3AlaI0A2jEdmCeP55KS5befKCXs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2810,7 +2957,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eriE7V7nMhDkZafTHDZz/uqq/CvM7z1o+Gl35PxBI3w=
+			TkbCuK5bB3ML/r5MXoeil8Scvl7rGIP3132twdf6Z80=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2819,7 +2966,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ipo+ScUtsystkSxf8hwRtHVoxJAye7IF9jwRutz32pA=
+			WRNI29JImQCLUhsh5COtP+YotZVrvUyv4i2c44CPlbg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2849,16 +2996,23 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			snexQfGROWsglAUYWlbue74cLGf67o/W5nIybPbx5c0=
+			c7TsB5zvNDs2QNQ6xC3BZlvUjTa66IHTHZoQLAhhgUY=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>OPPWAMobile-Resources.bundle/style.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4YO1jMSTzEieR1KiNy6bv3tGmrV2F7q8wj4kozWe7f8=
+			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/sv.lproj/OPPCheckout.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WBeJQx7NXZWGmfPm6iGbztraAb0wtiCBfV4jB3p8v7Q=
+			n+KcbXT+X34n2C6QvxbMaFcCyIG4i9mt1KRV5goOX7E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2867,7 +3021,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcX0qPpPQfZyg14AfMSg8atK0Ejt2svzEzzfw4LaNkI=
+			LtdMV2jniebAwSoQD0XZTUKV0WSz8fMVgVa973DnjGY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2918,7 +3072,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gVfR9o6jk1YfFbu2KQ6PN/E+Y74iY6xiLXFybm49F4=
+			DzRR0q4E1Kj2pZu67OLgls5Qs8D/g8wMrv2mEkStTW8=
 			</data>
 		</dict>
 		<key>OPPWAMobile-Resources.bundle/visa.png</key>
@@ -3009,10 +3163,17 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/W6xNDIZxtJQxiv9UAWa9WiEMa3UgD6GmZXotaXD7D8=
+			52XRt87/ABe9Q6Cgdn3nIdW8tKkw87J1gh5aMwFr1to=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			swEllPqWs4RqYwY5+eyOYUQExDD3dQjiNjMny0VxgFE=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>

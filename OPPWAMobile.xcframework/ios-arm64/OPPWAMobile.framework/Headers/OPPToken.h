@@ -1,19 +1,11 @@
-//
-// Copyright (c) $$year$$ by ACI Worldwide, Inc.
-// All rights reserved.
-//
-// This software is the confidential and proprietary information
-// of ACI Worldwide Inc ("Confidential Information"). You shall
-// not disclose such Confidential Information and shall use it
-// only in accordance with the terms of the license agreement
-// you entered with ACI Worldwide Inc.
-//
+//  © Copyright ACI Worldwide, Inc. 2018, 2025
 
 #import <Foundation/Foundation.h>
-#import "OPPCard.h"
 #import "OPPBankAccount.h"
 #import "OPPVirtualAccount.h"
 #import "OPPPaymentParams.h"
+
+@class OPPCard;
 
 /**
  Class to encapsulate shopper’s payment details that have been tokenized.
